@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "myfirstspeechtesting",
+  "private_key_id": "a8b94b21df09d0aec150cde1e8151b8ca761f78b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmCn4Em93x4DhB\nZ7a+waCK4LhFog9Wp5+jTX3jE79aFPwzcVCPV5anRTvSJHVr+YcIcPHPhQJW7B+q\nZRl+EQW7Fe02/BO7RfGwzShPYz/rgzigx7oIvV1gc8tvfpTTsACDslYxBdG3fQvs\nr8emYlCUmNY27AVE/RDL/ZgLG0Kd0h/PgPvtX9m7mprkYBYYMnyYULmIMo7M0tFc\ny0lwYCcG5cofe94MgtfUpM/HEhDFHR/o9pb39u11MPrh77dP2EiaC7crRDs592JT\nd1OIgENQtFgVMeFxdI0sAm11O6sbKFqu8eR4D26UYjow8eneoHRKyTcAf7Y8AebO\nCQvPFRcRAgMBAAECggEAGywaZVywnJWp/yIe6Oa9BB00asjTo8W4vTvAPzoLFY3b\nm/uOSHb4A5Wz7Xbj9HCYZYw+Nky5DkqEABmda2ETxAMZl+b2v635mIpqb1t5qWwH\nB2DIFAgRUOiCQVPAvUfPPb4gltMx98ox+mDl1le+giLk44YKcrjLV+a/TAoBA9yM\ntrTwvXL+HYQ6/cjKVIAmplliNyQZhCpgDJ3Ix+Zu9OWBv9FORQ1R8uCum5Glmzex\nMm9fIAWiWFQYEfJQ94uIt0mq26RItPdQ4fbOdh+aN8J3umFUaje6ifunCy8U0o6r\nj9QrvOeNVBQ98QEG9medKU0TANnFnaPt08ILtMrzsQKBgQDP1Jb33X5Y75QIIREW\nxteyIrSQaOCTcLK8pXMlfNZH43gNed5E2jkJbPBrhd9TM3MkE/aNj116W6Pw5jfh\nk7Dt4ciIAWweKF6plSfPMj29VbED9DysM1KWGMnYoaPKz36D1sK5EhgWnPUilyZ1\njTg1aSkiJv6uZXbrHaEX1O5u9QKBgQDMhl4nbWJKDVkgKk9+8NzgN2fHDdccLI5a\nS76meiIja8oxGSqX4AUiQPkr/QVcR8HLqREXDXKa8Fd9grDRwIij3C1EwghSUMdL\naiFkF0pqf4UYYxlHldNeabINa0HBRh0sc8uxIxnUVdD2J12DLakuUWaAQ5XVankL\nyNn3ZPN+LQKBgQCN87uF4xB4eHMYtlUwxHHxJwlDlY7GxfQfK7ahRUoq4fBO7A1n\n49GPYYw5NMAb2Qls/AGsIN8NQuiQEv7aIYF4iX3pf2c0lghKNilxuPQ4jP4SIFEM\noSVohdfgEk+Ip/7W1+o6dGRllaFNlgXbxrA8su44eH/96Cm4X413dKXCvQKBgCWA\nieku3HP5qJsGRxdesRGH90Z/mi73WI7kDqxV/saB8Ew6ch3xHN/gDBBtz7rRCY7/\njDuu4pHYeiJwgV2ksSliqQZPkdkOKM0CQ+cngiSvB0emfC8tINnSBa0COsdmxNiu\nzu3HIuhVaACKzVHNYJU2pdXlDqdYY6Oui5EaeK9tAoGAAN7AkcLQ50o4QwIlC1+D\nbnOm9BSUOcYGbuWHvV72sgx2A2/g91Ee3yviMMfUIF65gqdkahYPXDn0OqCBBq1g\ng11SYt3TOjAYNPh1+3nPqSL9pJIqFtcDxtKxVJqEl694/YLqP8t4oM5OER9hDdPu\nmtERgZ2sf5p1RozdUuSkacg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myspeechtestservice@myfirstspeechtesting.iam.gserviceaccount.com",
+  "client_id": "106506084386797160242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myspeechtestservice%40myfirstspeechtesting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
